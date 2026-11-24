@@ -58,3 +58,8 @@ nunit-*.xml
 
 ## Internal Documentation
 internal-docs/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
